@@ -19,8 +19,7 @@ const client = new MongoClient(uri, {
   useUnifiedTopology: true,
 });
 
-//user pass: igNnmrpWH8NMpWW8
-//user name:genius-car-mecanics
+
 
 //connect to the database
 
